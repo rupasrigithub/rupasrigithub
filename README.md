@@ -3,9 +3,49 @@
  I am Katari Rupasri
  
 Location: Warangal, Telangana, India
+
 Email: katarirupasri4@gmail.com
+
 LinkedIn: linkedin.com/in/katari-rupasri-90943a239
 
+myportfolio: https://strong-pika-aef1b0.netlify.app/
+
+👩‍💻 About Me
+
+I am a passionate Full Stack Developer with a Bachelor's degree in Computer Science and Engineering, specializing in Networks. My expertise spans across front-end and back-end technologies, with hands-on experience in building web applications, database management, and cloud security. I am dedicated to continuous learning and improvement, consistently delivering high-quality, dynamic solutions. My aim is to contribute to the success of any organization I work with by applying my skills and knowledge in programming, web technologies, and database management.
+
+🎯 Career Objective
+
+To contribute as a dedicated and skilled professional in a dynamic organization, where I can apply my expertise in programming, web technologies, and database management. I aim to consistently deliver high-quality results while continuously enhancing my skills to support the organization's growth and success.
+
+🛠️ Skills
+
+Languages: Java, SQL
+
+Web Technologies: HTML, CSS, JavaScript, React.js, Servlets
+
+Frameworks: Spring Framework, Hibernate, Hibernate JPA, JDBC
+
+Tools: MySQL, Visual Studio Code, Eclipse IDE, Postman
+
+Concepts: Computer Networks, Object-Oriented Programming (OOP)
+
+Soft Skills: Communication, Problem-Solving, Time Management, Leadership
+
+
+🚀 Projects
+
+1. Cyber Insights: Security for Big Data
+2. 
+Overview: A robust web-based solution designed to secure data stored in the cloud through encryption techniques. The platform allows data owners to upload sensitive files securely, while authorized users can retrieve and access the data in a protected environment.
+
+Key Features:
+Secure file upload and retrieval with encryption/decryption.
+User authentication to ensure only authorized access.
+Intuitive UI for seamless data management.
+Integration with cloud storage services (Box Drive) for scalable data storage.
+Technologies: HTML, CSS, Bootstrap, SQL, MySQL, Box drive cloud platform.
+Impact: Ensured data privacy and protection for sensitive information, providing a reliable solution for businesses to store and share cloud data securely.
 <!--
 **rupasrigithub/rupasrigithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
