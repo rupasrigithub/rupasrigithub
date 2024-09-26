@@ -1,6 +1,7 @@
 ## Hi there 👋
 
  I am Katari Rupasri
+ 
 Location: Warangal, Telangana, India
 Email: katarirupasri4@gmail.com
 LinkedIn: linkedin.com/in/katari-rupasri-90943a239
